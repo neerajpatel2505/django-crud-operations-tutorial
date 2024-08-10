@@ -11,6 +11,7 @@ Before we dive into building our CRUD project, make sure you have the following 
 pip install django
 ```
 
+
 2. Database: Decide on the database you want to use. By default, Django uses SQLite, but you can configure it to use other databases like PostgreSQL, MySQL, or Oracle.
 
 3. Text Editor or IDE: Choose a code editor or integrated development environment (IDE) of your preference. Popular choices include Visual Studio Code, PyCharm, or Sublime Text.
